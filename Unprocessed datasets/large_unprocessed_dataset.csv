@@ -1,0 +1,211 @@
+Name,Age,Gender,Income,City
+Bob,,Female,,Phoenix
+Alice,,Male,97584.84,New York
+Eva,22.0,,95874.45,
+David,,Male,,New York
+David,37.0,,,Houston
+Charlie,,Male,,Houston
+Bob,56.0,Male,40620.89,Chicago
+Ian,35.0,Male,,Phoenix
+Bob,,Male,38291.61,Phoenix
+Jane,,Male,,New York
+Grace,47.0,,84298.55,Houston
+Alice,47.0,Male,61536.01,Phoenix
+Alice,,Male,50814.72,Los Angeles
+Bob,,Male,,Phoenix
+David,45.0,Female,,New York
+David,,,,
+Ian,,Male,73786.05,
+Jane,54.0,,,Phoenix
+Alice,28.0,Male,,Chicago
+Ian,31.0,Female,40957.28,Houston
+David,,,61535.26,
+Ian,24.0,Female,,New York
+Grace,,Female,50167.34,New York
+David,,Male,79209.13,Houston
+Helen,,,,Houston
+Jane,30.0,,,Houston
+Eva,51.0,,,
+Alice,33.0,,75334.43,New York
+Charlie,,Male,,Houston
+Grace,,Male,34174.66,
+Frank,44.0,Female,71653.08,Houston
+Eva,49.0,Male,60740.74,New York
+Charlie,47.0,,78207.46,New York
+David,,Male,95987.34,Chicago
+Frank,,Female,,Phoenix
+Bob,,,92259.6,Los Angeles
+Bob,,,,New York
+Grace,23.0,Female,,Los Angeles
+Bob,,Female,99970.07,Chicago
+Frank,,,,Phoenix
+Frank,,Male,62935.06,
+Jane,,Male,,Phoenix
+Eva,35.0,,99786.18,Phoenix
+Alice,,,74434.93,
+Helen,,,97833.87,Chicago
+Ian,,Male,54357.27,Houston
+Bob,46.0,Male,,Phoenix
+Grace,,,90041.32,Phoenix
+Bob,,Female,58815.16,Chicago
+Ian,36.0,,50175.25,Houston
+Eva,28.0,,,Phoenix
+Jane,49.0,Male,61837.81,Phoenix
+Frank,,,,Houston
+Jane,,Male,97912.93,New York
+David,,Female,,
+Bob,52.0,,76036.23,New York
+Alice,28.0,Female,,
+David,,,66290.76,
+Eva,43.0,Female,,Phoenix
+Bob,30.0,Male,,
+David,54.0,,94937.09,Los Angeles
+Bob,,,91659.26,Houston
+Grace,55.0,Female,,Houston
+Eva,,Male,79684.8,Los Angeles
+Helen,,Female,68558.73,Houston
+Frank,,Female,,Chicago
+Charlie,37.0,Male,,Houston
+Frank,,Female,,Houston
+Frank,,Female,64886.29,Houston
+David,60.0,,65621.04,
+Eva,52.0,Female,59084.32,New York
+Bob,,,,Chicago
+Jane,25.0,Male,,Houston
+Charlie,,Female,,Chicago
+Ian,20.0,Male,90481.89,
+David,28.0,,84087.26,Chicago
+Charlie,30.0,,53791.27,Chicago
+Helen,55.0,,87438.46,Los Angeles
+Grace,,Female,80823.57,
+Eva,,,90568.24,Houston
+Ian,,,67700.64,New York
+David,,Female,53270.8,New York
+Frank,,Female,61874.12,New York
+Alice,22.0,Female,,New York
+David,,,,Houston
+Alice,,,89920.91,New York
+Frank,,Female,33055.31,
+Grace,42.0,Female,79365.95,
+Eva,,Male,,Chicago
+Bob,,Male,,Los Angeles
+David,31.0,Female,38837.24,Phoenix
+Jane,,Female,90879.02,New York
+Frank,41.0,Male,36979.82,Phoenix
+David,35.0,Female,,Phoenix
+Helen,,,,Phoenix
+Grace,,,35237.98,Chicago
+Helen,,,53699.29,
+Charlie,32.0,Female,75488.57,New York
+Eva,42.0,Female,89663.89,Houston
+Charlie,,Male,96789.77,Chicago
+David,,Female,,
+Ian,45.0,Female,,Houston
+Ian,,Male,74181.27,
+Eva,37.0,Female,,New York
+Jane,52.0,Male,,Chicago
+Grace,54.0,Female,,Phoenix
+Jane,,Female,61057.5,Chicago
+Grace,,Female,,Chicago
+Frank,57.0,Female,,New York
+David,,,50535.74,Phoenix
+Charlie,58.0,,,Phoenix
+Ian,42.0,Female,,Los Angeles
+Helen,,,,Los Angeles
+Bob,,Male,72664.43,
+Alice,,,,Houston
+Bob,,Male,,Los Angeles
+Charlie,,Male,46253.19,New York
+Charlie,43.0,Male,,Chicago
+Grace,24.0,,92923.6,Phoenix
+Jane,59.0,Female,,Chicago
+Bob,27.0,Female,35170.33,New York
+Grace,52.0,,99135.62,Chicago
+Grace,46.0,Male,74725.71,Phoenix
+Jane,45.0,,78321.95,Los Angeles
+Helen,,Female,,Houston
+Ian,32.0,,99956.15,Phoenix
+Eva,,,37465.73,Phoenix
+Ian,59.0,Female,70034.59,Phoenix
+Alice,,Female,99488.44,
+Bob,39.0,Male,31535.77,
+Ian,33.0,Male,,Phoenix
+Eva,57.0,Female,93743.19,New York
+Frank,49.0,Male,88298.72,Phoenix
+Bob,,Female,,
+Eva,52.0,,72494.55,
+Grace,,Male,,Chicago
+Charlie,38.0,Female,,New York
+Helen,,,,Los Angeles
+Alice,,,51625.3,Chicago
+Eva,,Female,32335.52,
+Ian,,Female,,Chicago
+Charlie,35.0,,93673.95,Chicago
+Ian,,,,Chicago
+Bob,49.0,Female,44055.64,New York
+Eva,,Female,67159.67,Los Angeles
+Ian,44.0,,88133.08,Los Angeles
+Jane,,,93983.43,Phoenix
+David,,Female,97716.89,
+Charlie,26.0,Female,82259.15,Houston
+Frank,,,86296.28,New York
+Charlie,53.0,Female,,Los Angeles
+Ian,,Female,,
+Ian,27.0,Female,90209.84,
+Alice,28.0,Female,97708.88,New York
+Jane,53.0,Male,36321.2,New York
+Frank,48.0,Male,,
+Helen,55.0,,61835.02,Phoenix
+Alice,30.0,Male,70919.21,Los Angeles
+Bob,48.0,Female,,Houston
+Frank,35.0,Male,63003.38,Houston
+Eva,53.0,,,Houston
+David,,,75335.67,Chicago
+Alice,37.0,,93657.13,Los Angeles
+David,24.0,Male,,Chicago
+Jane,35.0,Male,,Chicago
+Bob,41.0,Male,51305.52,
+Bob,,,,Chicago
+Helen,,Female,,Phoenix
+Bob,34.0,Female,57205.21,Phoenix
+Ian,,,76934.04,New York
+Charlie,24.0,,,New York
+Charlie,46.0,,,Los Angeles
+Helen,54.0,,88358.52,Los Angeles
+Ian,,Female,95733.71,Phoenix
+Charlie,33.0,Male,32290.14,New York
+Eva,,Male,45208.88,
+Ian,56.0,Female,96538.86,New York
+Jane,,Male,36954.82,Chicago
+Grace,42.0,Female,68112.61,Houston
+David,44.0,Male,34238.51,
+Ian,,Female,,Houston
+David,,Male,96430.76,Houston
+Eva,37.0,,,Phoenix
+Grace,,,,Houston
+Frank,44.0,Male,33540.5,Houston
+Helen,,Female,,Chicago
+Ian,,Male,,Los Angeles
+Helen,,Male,,Phoenix
+Bob,,,,New York
+David,25.0,Female,,Chicago
+David,28.0,,,Houston
+Bob,,Male,,New York
+Frank,36.0,,99126.91,Chicago
+Alice,,Female,,
+Jane,49.0,Male,,
+Ian,41.0,Male,39226.23,Phoenix
+David,37.0,,,Houston
+Jane,,Female,,Phoenix
+David,,Female,,
+Alice,,Female,38873.1,Chicago
+Bob,,Female,,Phoenix
+Alice,,Male,97584.84,New York
+Eva,22.0,,95874.45,
+David,,Male,,New York
+David,37.0,,,Houston
+Charlie,,Male,,Houston
+Bob,56.0,Male,40620.89,Chicago
+Ian,35.0,Male,,Phoenix
+Bob,,Male,38291.61,Phoenix
+Jane,,Male,,New York
