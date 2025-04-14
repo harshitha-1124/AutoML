@@ -74,12 +74,12 @@
 
 ---
 
-## 📞 **Contact** 📞
+##**Contact** 
 
 If you have any questions or need help, feel free to open an issue on the repository or reach out via email!
 
 ---
 
-## 🎉 **Happy ML-ing!** 🚀
+## 🎉 **Happy ML-ing!** 
 
 
