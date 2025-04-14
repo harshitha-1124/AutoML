@@ -72,8 +72,7 @@ pycaret==3.3.2
 pydeck==0.9.1
 Pygments==2.19.1
 pyod==2.0.3
-pyparsing==3.2.1
-pywin32==308
+pyparsing==3.1.1
 python-dateutil==2.9.0.post0
 pytz==2025.1
 referencing==0.36.2
